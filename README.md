@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fcengman
 - 👀 I’m interested in data science, devops, and automation. 
-- 🌱 I’m currently learning bash scripting and networking.
+- 🌱 I’m currently learning c++ and windows API.
 - 📫 How to reach me fcengman@gmail.com
 
 <!---
